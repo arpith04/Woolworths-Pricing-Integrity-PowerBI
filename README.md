@@ -54,9 +54,9 @@ Formulated explicit DAX measures for core metrics and conditional aggregations:
 ## 📁 Repository Structure
 ```text
 ├── data/
-│   └── woolworths_retail_dataset.csv    # Source transaction data
+│   └── woolworths_data.csv    # Source transaction data
 ├── docs/
-│   ├── preview_page1.png                # Dashboard Page 1 Screenshot
-│   └── preview_page2.png                # Dashboard Page 2 Screenshot
-├── Woolworths_Pricing_Integrity_Dashboard.pbix  # Power BI Project File
+│   ├── dashboard_page1.png                # Dashboard Page 1 Screenshot
+│   └── dashboard_page2.png                # Dashboard Page 2 Screenshot
+├── Woolworths_PBI.pbix  # Power BI Project File
 └── README.md                            # Project documentation
