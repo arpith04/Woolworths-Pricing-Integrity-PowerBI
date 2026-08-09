@@ -16,7 +16,6 @@ The analysis specifically focuses on identifying **misleading promotions** (inst
 ### Page 1: Executive Summary & Performance Overview
 > *Monitors high-level KPIs, weekly revenue trends, and suburb-level pricing compliance.*
 
-*(Replace the link below with your image path or link to your live dashboard)*
 [![Executive Summary](./dashboard_page_1.png)]
 
 ### Page 2: Promotional & Compliance Analysis
