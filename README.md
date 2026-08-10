@@ -16,12 +16,12 @@ The analysis specifically focuses on identifying **misleading promotions** (inst
 ### Page 1: Executive Summary & Performance Overview
 > *Monitors high-level KPIs, weekly revenue trends, and suburb-level pricing compliance.*
 
-![Executive Summary](https://github.com/arpith04/Woolworths-Pricing-Integrity-PowerBI/blob/dcea9acb86bbab38f6590ac00f4f3676d8ae9181/utils/dashboard_page_1.png) 
+![Executive Summary](utils/dashboard_page_1.png) 
 
 ### Page 2: Promotional & Compliance Analysis
 > *Provides store-level matrix drill-downs and product-level compliance red-flagging.*
 
-[![Promotional Analysis](https://github.com/arpith04/Woolworths-Pricing-Integrity-PowerBI/blob/dcea9acb86bbab38f6590ac00f4f3676d8ae9181/utils/dashboard_page_2.png)](https://app.powerbi.com/reportEmbed?reportId=dee8bf68-40a8-4ce2-8910-9071dbc647e1&autoAuth=true&ctid=a1b03033-8a3d-4443-a90b-0f3298ffbf90)
+[![Promotional Analysis](utils/dashboard_page_2.png)](https://app.powerbi.com/reportEmbed?reportId=dee8bf68-40a8-4ce2-8910-9071dbc647e1&autoAuth=true&ctid=a1b03033-8a3d-4443-a90b-0f3298ffbf90)
 
 >👆 **Click the image above to open and interact with the live dashboard!** 
 
